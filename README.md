@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+This is a FL responsity forked from **[FL-bench](https://github.com/KarhouTam/FL-bench)**, customized with our **FedBEAT** module. 
 <p align="center">
 <img src=".github/images/logo.svg" alt="Image"/>
 </p>
