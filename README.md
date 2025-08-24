@@ -1,4 +1,21 @@
 This is a FL responsity forked from **[FL-bench](https://github.com/KarhouTam/FL-bench)**, customized with our **FedBEAT** module. 
+
+
+
+Specifically, we changed the directors or files as follows:
+
+- **/src/client/fedbeat.py**
+
+- **/src/server/fedbeat.py**
+
+- **/src/robust/***
+
+- **/config/defaults.yaml**
+
+- **/third_party/MAIR-main ([MAIR repository](https://github.com/Harry24k/MAIR/tree/main/mair))**
+
+  
+
 <p align="center">
 <img src=".github/images/logo.svg" alt="Image"/>
 </p>
