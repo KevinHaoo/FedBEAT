@@ -2,7 +2,7 @@ This is a FL responsity forked from **[FL-bench](https://github.com/KarhouTam/FL
 
 
 
-Specifically, we changed the directors or files as follows:
+Specifically, we created / changed the directors or files as follows:
 
 - **/src/client/fedbeat.py**
 
