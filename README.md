@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src=".github/images/logo.svg" alt="Image"/>
 </p>
@@ -193,7 +194,7 @@ Defaults are set in both [`config/defaults.yaml`](config/defaults.yaml) and [`sr
 > python main.py method=fedprox                                            # fedprox.mu = 1
 > python main.py --config-name your_config method=fedprox                  # fedprox.mu = 0.01
 > python main.py --config-name your_config method=fedprox fedprox.mu=0.001 # fedprox.mu = 0.001
-> ``` 
+> ```
 
 ### Monitor 📈
 FL-bench supports `visdom` and `tensorboard`.
@@ -332,6 +333,7 @@ Domain Generalization Image Datasets
 - [*DomainNet*](http://ai.bu.edu/DomainNet/) (3 x ? x ?, 345 classes) 
   - Go check [`data/README.md`](data#readme) for the full process guideline 🧾.
   
+
 Medical Image Datasets
 
 - [*COVID-19*](https://www.researchgate.net/publication/344295900_Curated_Dataset_for_COVID-19_Posterior-Anterior_Chest_Radiography_Images_X-Rays) (3 x 244 x 224, 4 classes)
@@ -393,3 +395,6 @@ You can find all details in [`FedAvgClient`](src/client/fedavg.py) and [`FedAvgS
 }
 
 ```
+=======
+# FedBEAT
+>>>>>>> ae21fdec7c8a2acb6e9eec5d2799a06f89657fe8
